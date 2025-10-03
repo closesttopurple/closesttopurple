@@ -14,9 +14,9 @@
 <td align="center" width="60%">
   
 【 P r o j e c t s 】
-<a href="https://closesttopurple.org/ths"><img src="https://ik.imagekit.io/closesttopurple/closesttopurpleREADME/THS.png?updatedAt=1755838313920"/></a>
+<a href="https://thehumanserver.org/ths"><img src="https://ik.imagekit.io/closesttopurple/closesttopurpleREADME/THS.png?updatedAt=1755838313920"/></a>
 A site dedicated to the archival of written works from Yoko Taro's games. 
-<a href="https://k.closesttopurple.org/"><img src="https://ik.imagekit.io/closesttopurple/closesttopurpleREADME/karisbooru.png?updatedAt=1755838521529"/></a>
+<a href="https://archive.thehumanserver.org"><img src="https://ik.imagekit.io/closesttopurple/closesttopurpleREADME/karisbooru.png?updatedAt=1755838521529"/></a>
 A tag-based image host for media in relation to Yoko Taro's games.
 <hr>
   
