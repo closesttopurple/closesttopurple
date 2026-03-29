@@ -16,8 +16,8 @@
 【 P r o j e c t s 】
 <a href="https://thehumanserver.org"><img src="https://ik.imagekit.io/closesttopurple/closesttopurpleREADME/THS.png?updatedAt=1755838313920"/></a>
 A site dedicated to the archival of written works from Yoko Taro's games. 
-<a href="https://archive.thehumanserver.org"><img src="https://i.imgur.com/7NzMS8m.png"/></a>
-A tag-based image host for media in relation to Yoko Taro's games.
+<a href="https://wiki.thehumanserver.org"><img src="https://i.imgur.com/7NzMS8m.png"/></a>
+A wiki for Drakengard and NieR media, along with Yoko Taro's other works.
 <hr>
   
 【 L a n g u a g e s 】
