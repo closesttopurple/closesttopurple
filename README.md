@@ -16,7 +16,7 @@
 【 P r o j e c t s 】
 <a href="https://thehumanserver.org"><img src="https://ik.imagekit.io/closesttopurple/closesttopurpleREADME/THS.png?updatedAt=1755838313920"/></a>
 A site dedicated to the archival of written works from Yoko Taro's games. 
-<a href="https://archive.thehumanserver.org"><img src="https://ik.imagekit.io/closesttopurple/closesttopurpleREADME/karisbooru.png?updatedAt=1755838521529"/></a>
+<a href="https://archive.thehumanserver.org"><img src="https://i.imgur.com/7NzMS8m.png"/></a>
 A tag-based image host for media in relation to Yoko Taro's games.
 <hr>
   
